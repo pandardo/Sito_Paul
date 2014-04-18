@@ -1,0 +1,312 @@
+/* 
+    Document   : test
+    Created on : 27-lug-2012, 10.41.44
+    Author     : dariodippi
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+    Author     : dariodippi
+*/
+
+
+body {
+    background: #FFFFFF;
+}
+
+img.bandiera {
+    height: 30px;
+    border: 0px;
+}
+
+#immagine_logo {
+    width: 50%;
+}
+
+#immagine_title {
+    width:80%;
+}
+
+#immagine1 {
+    width:300px;
+    height: 200px;
+}
+
+#immagine2 { 
+    width:300px;
+    height: 200px;
+}
+
+#immagine3 {
+    width:300px;
+    height: 200px;
+}
+
+#immagine4 {
+    width:300px;
+    height: 200px;
+}
+
+#immagine5 {
+    width:300px;
+    height: 200px;
+}
+
+#immagine6 {
+    width:300px;
+    height: 200px;
+}
+
+div#header {
+    margin:0px;
+}
+
+div#logo {
+    float:left;
+    margin:0px;
+    padding-left:130px;
+}
+
+div#language    {
+    font: 18px/27px 'ColaborateLightRegular', Arial, sans-serif;
+    padding-top:20px;
+}
+
+div#immagini    {
+    margin-top: -20px;
+}
+
+div#title {
+    padding-left: 400px;
+}
+
+div#menu {
+    margin:0px;
+    padding-top: 60px;
+    padding-left: 160px;
+}
+
+span.pic-wrapper1 {
+	margin: 2em auto;
+	width:300px;
+        height: 200px;
+	position: relative;
+	cursor: pointer;
+}
+
+span#pic-wrapper2 {
+	margin: 2em auto;
+	width:300px;
+        height: 200px;
+	position: relative;
+	cursor: pointer;
+}
+
+span#pic-wrapper3 {
+	margin: 2em auto;
+	width:300px;
+        height: 200px;
+	position: relative;
+	cursor: pointer;
+}
+
+span#pic-wrapper4 {
+	margin: 2em auto;
+	width:300px;
+        height: 200px;
+	position: relative;
+	cursor: pointer;
+}
+
+span#pic-wrapper5 {
+	margin: 2em auto;
+	width:300px;
+        height: 200px;
+	position: relative;
+	cursor: pointer;
+}
+
+span#pic-wrapper6 {
+	margin: 2em auto;
+	width:300px;
+        height: 200px;
+	position: relative;
+	cursor: pointer;
+}
+
+img#pic1 {
+	width:300px;
+        height: 200px;
+	-moz-transition: all 1s ease-out;
+	-webkit-transition: all 1s ease-out;
+	-o-transition: all 1s ease-out;
+	-ms-transition: all 1s ease-out;
+	position: absolute;
+	z-index: 1;
+	opacity: 1;
+        top: 250px;
+        left:160px;
+}
+
+img#pic-inner1 {
+	width:300px;
+        height: 200px;
+	z-index: 0;
+	position: absolute;
+        top: 250px;
+        left:160px;
+}	
+
+img#pic1:hover {
+	opacity: 0;
+}
+
+img#pic2 {
+	width:300px;
+        height: 200px;
+	-moz-transition: all 1s ease-out;
+	-webkit-transition: all 1s ease-out;
+	-o-transition: all 1s ease-out;
+	-ms-transition: all 1s ease-out;
+	position: absolute;
+	z-index: 1;
+	opacity: 1;
+        top: 250px;
+        left:480px;
+}
+
+img#pic-inner2 {
+	width:300px;
+        height: 200px;
+	z-index: 0;
+	position: absolute;
+        top: 250px;
+        left:480px;
+}	
+
+img#pic2:hover {
+	opacity: 0;
+}
+
+img#pic3 {
+	width:300px;
+        height: 200px;
+	-moz-transition: all 1s ease-out;
+	-webkit-transition: all 1s ease-out;
+	-o-transition: all 1s ease-out;
+	-ms-transition: all 1s ease-out;
+	position: absolute;
+	z-index: 1;
+	opacity: 1;
+        top: 250px;
+        left:800px;
+}
+
+img#pic-inner3 {
+	width:300px;
+        height: 200px;
+	z-index: 0;
+	position: absolute;
+        top: 250px;
+        left:800px;
+}	
+
+img#pic3:hover {
+	opacity: 0;
+}
+
+img#pic4 {
+	width:300px;
+        height: 200px;
+	-moz-transition: all 1s ease-out;
+	-webkit-transition: all 1s ease-out;
+	-o-transition: all 1s ease-out;
+	-ms-transition: all 1s ease-out;
+	position: absolute;
+	z-index: 1;
+	opacity: 1;
+        top: 470px;
+        left:160px;
+}
+
+img#pic-inner4 {
+	width:300px;
+        height: 200px;
+	z-index: 0;
+	position: absolute;
+        top: 470px;
+        left:160px;
+}	
+
+img#pic4:hover {
+	opacity: 0;
+}
+
+img#pic5 {
+	width:300px;
+        height: 200px;
+	-moz-transition: all 1s ease-out;
+	-webkit-transition: all 1s ease-out;
+	-o-transition: all 1s ease-out;
+	-ms-transition: all 1s ease-out;
+	position: absolute;
+	z-index: 1;
+	opacity: 1;
+        top: 470px;
+        left:480px;
+}
+
+img#pic-inner5 {
+	width:300px;
+        height: 200px;
+	z-index: 0;
+	position: absolute;
+        top: 470px;
+        left:480px;
+}	
+
+img#pic5:hover {
+	opacity: 0;
+}
+
+img#pic6 {
+	width:300px;
+        height: 200px;
+	-moz-transition: all 1s ease-out;
+	-webkit-transition: all 1s ease-out;
+	-o-transition: all 1s ease-out;
+	-ms-transition: all 1s ease-out;
+	position: absolute;
+	z-index: 1;
+	opacity: 1;
+        top: 470px;
+        left:800px;
+}
+
+img#pic-inner6 {
+	width:300px;
+        height: 200px;
+	z-index: 0;
+	position: absolute;
+        top: 470px;
+        left:800px;
+}	
+
+img#pic6:hover {
+	opacity: 0;
+}
+
+img#facebook {
+    position: absolute;
+    top: 100px;
+    left: 305px;
+    height: 30px;
+}
+
+img#mail {
+    position: absolute;
+    top: 140px;
+    left: 305px;
+    height: 30px;
+}

@@ -1,0 +1,5 @@
+                    <p>
+                    <img src="images/menu-1.jpeg" id="immagine1"/>&nbsp;&nbsp;
+                    <img src="images/menu-2.jpeg" id="immagine2"/>&nbsp;&nbsp;
+                    <img src="images/menu-3.jpeg" id="immagine3"/>&nbsp;&nbsp;
+                    </p>
